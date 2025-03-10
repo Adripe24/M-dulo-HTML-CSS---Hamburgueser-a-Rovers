@@ -32,6 +32,16 @@
     gap: 100px;
     justify-content: center;
 }
+
+.copyright {
+    text-decoration: none;
+    color: white;
+
+}
+
+.copyright:hover {
+    color: orange;
+}
    
    
    
